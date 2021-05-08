@@ -1,4 +1,4 @@
-# URL
+# URL Mi ruta de acceso
 https://johnalexcortes.github.io/PanelCV/
 
 # PanelCV

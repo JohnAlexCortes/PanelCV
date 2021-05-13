@@ -3,11 +3,11 @@ https://johnalexcortes.github.io/PanelCV/
 
 # PanelCV
 
-This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
+This theme is desigXXXned by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
 
-I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
+I have made this inXXXto a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
 
-The theme would look like this 
+The theXXXme would loXXXok liXXXke this 
 
 ![Demo](/images/demo.png)
 
@@ -15,8 +15,8 @@ The theme would look like this
 # Installation
 
 - Fork the repository
-- Go to settings and set Github Pages source as master.
-- Your new site should be ready at https://username.github.io/PanelCV/
+- Go to settXXXings and set GitXXXhub Pages souXXXrce as master.
+- YoXXXur new site should be ready at https://username.github.io/PanelCV/
 
 Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
 

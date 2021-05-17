@@ -23,7 +23,7 @@
 COMMIT_MSG_FILE=$1
 COMMIT_SOURCE=$2
 SHA1=$3
-
+echo "===Esta es una prueba para la ejecución del pre-commit-msg==="
 changed=$(git diff --cached --name-status | awk '{print $2}' | grep '.md')
 if [ -n "$changed" ]
 then

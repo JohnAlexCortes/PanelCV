@@ -19,3 +19,6 @@ jobs:
 
       - name: Test
         run: dotnet test
+
+      - name: Install SpecFlow LivingDoc generator
+        run: dotnet tool install --global SpecFlow.Plus.LivingDoc.CLI
